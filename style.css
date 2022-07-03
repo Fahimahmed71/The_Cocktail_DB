@@ -1,0 +1,28 @@
+* {
+  background: #15091d;
+}
+
+section {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: 20px;
+  margin: 0 5rem;
+}
+
+section img {
+  width: 20rem;
+  border-radius: 10%;
+}
+
+section h5 {
+  text-align: center;
+  margin-top: 10px;
+  color: wheat;
+}
+/*# sourceMappingURL=style.css.map */
